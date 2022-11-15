@@ -1,0 +1,6 @@
+/* ---------------------------------------------
+           FileRisorsa.RC script di risorsa
+   --------------------------------------------- */
+
+immagine01   BITMAP   World2.bmp
+immagine01   ICON     SolarClock.ico
